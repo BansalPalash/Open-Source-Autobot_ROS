@@ -1,0 +1,18 @@
+1. a. the design mainly dependent on the weight of the things(main payload (eg. books)+ battery+OS, sensors, actuators, DC motors with encoders, etc),, keeping the weight and area in mind, we can make a deisgn to sustain the weight and have enough space, after that we place the OS, ROS, CAMERA, WHEELS and other required things
+
+ b. that insta video of small toy car making: solving the problem of road gaps and ups and downs
+
+
+2. what is non-holonomic car, STEAM programmes
+
+3. a.find: I. Malavolta, G. Lewis, B. Schmerl, P. Lago, D. Garlan, How do you Architect your Robots? State of the Practice and Guidelines for ROS-based Systems, in:
+2020 IEEEACM 42nd, Int. Conf. Softw. Eng. Softw. Eng. Pract. ICSE-SEIP, 2020: pp. 31–40. https://doi.org/10.1145/3377813.3381358.
+
+   b. https://doi.org/10.1016/j.jss.2019.02.024.
+
+4. check mail: for solar professor: if hyou have said: that you are no longer be working
+5: recrrasta resume, with bullet points, and add ROS
+6. contact jan for situation at uni projects and contact Mach for heloing with my project
+7. differnece b/w ROS and arduniono
+8. check the suspension working , and of the best car suspension insta vid
+9. there are 2 things: robotics and german class missing due to trip: ask mom
